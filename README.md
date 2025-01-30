@@ -1,1 +1,1 @@
-##repository for learning course SlonIT
+## repository for learning course SlonIT
